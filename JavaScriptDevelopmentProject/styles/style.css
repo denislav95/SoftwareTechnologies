@@ -1,0 +1,210 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper{
+    background: url("../images/background.jpg");
+    background-size: 100%;
+    overflow: hidden;
+    min-height: 100%;
+    width: 100%;
+    font-size: 15px;
+    color: white;
+}
+
+/* HEADER */
+
+.container{
+    padding: 0;
+}
+
+.welcome-image{
+    background: url("../images/header.jpg") no-repeat center center;
+    background-size: cover;
+    position: relative;
+    height: 315px;
+}
+
+.header-nav{
+    position: relative;
+    z-index: 10;
+    background: #686868;
+    border-bottom: 5px solid brown;
+    padding: 0 0;
+    -webkit-user-select: none;
+}
+
+li, a{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.nav-tabs{
+    border: none;
+}
+
+.nav li a{
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav li a:hover{
+    background: #ef5e29;
+}
+
+.favicons a{
+    line-height: 38px;
+    margin-right: 35px;
+}
+
+.main-content{
+    background-color: darkgray;
+}
+
+.single-post h3{
+    border-top: 1px solid;
+    padding-top: 20px;
+}
+
+#post-1 h3:first-child{
+    border-top: none;
+    padding-top: 0;
+}
+
+/* ASIDE */
+
+.recent-posts li a{
+    color: #fff;
+}
+
+/* FOOTER */
+
+.footer-text{
+    padding: 30px 0px 30px 0px;
+    text-align: center;
+}
+
+/* LOADER STYLING */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: #FFFFFF;
+}
+
+#loader {
+    position: fixed;
+    top: 35%;
+    left: 45%;
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #06C0AB;
+    border-bottom: 16px solid #06C0AB;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: first-spin 4s linear infinite;
+    animation: first-spin 4s linear infinite;
+}
+
+#loader-2 {
+    border: 10px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 10px solid #06C0AB;
+    border-bottom: 10px solid #06C0AB;
+    width: 100px;
+    height: 100px;
+    -webkit-animation: second-spin 4s linear infinite;
+    animation: second-spin 4s linear infinite;
+}
+
+#loader-3 {
+    border: 10px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 10px solid #06C0AB;
+    border-bottom: 10px solid #06C0AB;
+    width: 80px;
+    height: 80px;
+    -webkit-animation: second-spin 4s linear infinite;
+    animation: second-spin 4s linear infinite;
+}
+
+#loader-4 {
+    border: 10px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 10px solid #06C0AB;
+    border-bottom: 10px solid #06C0AB;
+    width: 60px;
+    height: 60px;
+    -webkit-animation: second-spin 4s linear infinite;
+    animation: second-spin 4s linear infinite;
+}
+
+#loader-5 {
+    border: 10px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 10px solid #06C0AB;
+    border-bottom: 10px solid #06C0AB;
+    width: 40px;
+    height: 40px;
+    -webkit-animation: second-spin 4s linear infinite;
+    animation: second-spin 4s linear infinite;
+}
+
+@-webkit-keyframes first-spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+
+@-moz-keyframes first-spin {
+    0% { -moz-transform: rotate(0deg); }
+    100% { -moz-transform: rotate(360deg); }
+}
+
+@keyframes first-spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@-webkit-keyframes second-spin {
+    0% { -webkit-transform: rotate(0deg); }
+    25% { -webkit-transform: rotate(180deg); }
+    50% { -webkit-transform: rotate(360deg); }
+    75% { -webkit-transform: rotate(180deg); }
+    100% { -webkit-transform: rotate(0deg); }
+}
+
+@-moz-keyframes second-spin {
+    0% { -moz-transform: rotate(0deg); }
+    25% { -moz-transform: rotate(180deg); }
+    50% { -moz-transform: rotate(360deg); }
+    75% { -moz-transform: rotate(180deg); }
+    100% { -moz-transform: rotate(0deg); }
+}
+
+@keyframes second-spin {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(180deg); }
+    50% { transform: rotate(360deg); }
+    75% { transform: rotate(180deg); }
+    100% { transform: rotate(0deg); }
+}
+
+
+/* RESPONSIVE */
+
+@media (max-width: 767px){
+    .header-nav{
+        text-align: center;
+    }
+
+    .nav li{
+        float: none;
+    }
+}
