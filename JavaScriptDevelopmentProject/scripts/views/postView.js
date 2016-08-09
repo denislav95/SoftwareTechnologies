@@ -1,17 +1,16 @@
-class PostView{
-    constructor(wrapperSelector, mainContentSelector){
+class PostView {
+    constructor(wrapperSelector, mainContentSelector) {
         this._wrapperSelector = wrapperSelector;
         this._mainContentSelector = mainContentSelector;
     }
 
-    showCreatePostPage(data, isLoggedIn){
+    showCreatePostPage(data, isLoggedIn) {
         let _that = this;
         let templateUrl;
-
-        if(isLoggedIn){
+        if (isLoggedIn) {
             templateUrl = "templates/form-user.html";
         }
-        else{
+        else {
             templateUrl = "templates/form-guest.html";
         }
 
@@ -23,7 +22,7 @@ class PostView{
                 var renderedContent = Mustache.render(template, null);
                 $(_that._mainContentSelector).html(renderedContent);
 
-                $('#author').val(data.fullName);
+                $('#author').val(data.fullname);
 
                 $('#create-new-post-request-button').on('click', function (ev) {
                     let title = $('#title').val();
@@ -40,8 +39,7 @@ class PostView{
 
                     triggerEvent('createPost', data);
                 })
-            })
-        });
-
+            });
+        })
     }
 }
