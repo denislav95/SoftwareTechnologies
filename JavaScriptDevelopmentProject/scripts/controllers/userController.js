@@ -68,6 +68,7 @@ class UserController {
     }
 
     logout() {
+        showPopup('success', "You have successfully logged out.");
         sessionStorage.clear();
         redirectUrl('#/');
     }

@@ -67,10 +67,7 @@ li, a{
     padding-top: 20px;
 }
 
-#post-1 h3:first-child{
-    border-top: none;
-    padding-top: 0;
-}
+
 
 /* ASIDE */
 
@@ -206,5 +203,9 @@ li, a{
 
     .nav li{
         float: none;
+    }
+
+    .welcome-image{
+        height: 200px;
     }
 }

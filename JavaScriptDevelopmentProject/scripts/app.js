@@ -8,18 +8,22 @@
     var _guestCredentials = "53dc86e7-f6a9-436e-8d81-3c94c5dc63ef.Jn8A9SLZDWgfGe3Yjri4jZzUZss3IG33g8MwCN46AIY=";
     //Create AuthorizationService and Requester
 
-    let selector = ".wrapper";
-    let mainContentSelector = ".main-content";
-
-    let authService =
-        new AuthorizationService(baseUrl, appKey, appSecret, _guestCredentials);
+    let authService = new AuthorizationService(
+        baseUrl,
+        appKey,
+        appSecret,
+        _guestCredentials);
 
     authService.initAuthorizationType("Kinvey");
 
     let requester = new Requester(authService);
 
+    let selector = ".wrapper";
+    let mainContentSelector = ".main-content";
+
     // Create HomeView, HomeController, UserView, UserController, PostView and PostController
 
+    // functionality added
     let homeView = new HomeView(selector, mainContentSelector);
     let homeController = new HomeController(homeView, requester, baseUrl, appKey);
 
@@ -28,32 +32,30 @@
 
     let postView = new PostView(selector, mainContentSelector);
     let postController = new PostController(postView, requester, baseUrl, appKey);
-
+    // functionality added
 
 
     initEventServices();
 
     onRoute("#/", function () {
         // Check if user is logged in and if its not show the guest page, otherwise show the user page...
-
-
-        if(!authService.isLoggedIn()){
+        if (!authService.isLoggedIn()) {
             homeController.showGuestPage();
         }
-        else{
+        else {
             homeController.showUserPage();
         }
     });
 
     onRoute("#/post-:id", function () {
         // Create a redirect to one of the recent posts...
-        let top = $("#post-" + this.params['id']).position().top;
+        let top = $("#post-" + this.param['id']).position().top();
         $(window).scrollTop(top);
     });
 
     onRoute("#/login", function () {
         // Show the login page...
-        userController.showLoginPage(authService.isLoggedIn());
+        userController.showLoginPage(authService.isLoggedIn())
     });
 
     onRoute("#/register", function () {
@@ -71,7 +73,6 @@
         let data = {
             fullname: sessionStorage['fullname']
         };
-
         postController.showCreatePostPage(data, authService.isLoggedIn());
     });
 

@@ -3,8 +3,6 @@
 }
 
 .new-post-block {
-    background: #dadada;
-    width: 60%;
     margin: 0 auto;
     padding: 20px;
     border-radius: 20px;
@@ -33,21 +31,22 @@
 
 .content-field {
     resize: none;
-    border: 3px solid #f2f2f2;
+    border: 3px solid darkgray;
     outline: none;
-    width: 550px;
+    width: 80%;
     height: 300px;
     border-radius: 15px;
     text-align: left;
     font: 12px Lato-Light;
     padding: 10px;
+    color: #000;
 }
 
 .content-field:focus {
     font: 12px Lato;
     font-weight: 100;
     outline: none;
-    border: 3px solid #06c0ab;
+    border: 3px solid darkgray;
 }
 
 
