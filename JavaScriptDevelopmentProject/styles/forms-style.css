@@ -6,6 +6,10 @@
     font-weight: bold;
 }
 
+.title-form{
+    color: darkgray;
+}
+
 .user-login-block {
     border-radius: 15px;
     background: #686868;

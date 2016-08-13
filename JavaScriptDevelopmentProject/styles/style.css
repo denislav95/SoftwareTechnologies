@@ -93,7 +93,7 @@ li, a{
     width: 100%;
     height: 100%;
     overflow: auto;
-    background-color: #FFFFFF;
+    background-color: darkgrey;
 }
 
 #loader {
@@ -102,8 +102,8 @@ li, a{
     left: 45%;
     border: 16px solid #f3f3f3;
     border-radius: 50%;
-    border-top: 16px solid #06C0AB;
-    border-bottom: 16px solid #06C0AB;
+    border-top: 16px solid darkgoldenrod;
+    border-bottom: 16px solid darkgoldenrod;
     width: 120px;
     height: 120px;
     -webkit-animation: first-spin 4s linear infinite;
@@ -113,8 +113,8 @@ li, a{
 #loader-2 {
     border: 10px solid #f3f3f3;
     border-radius: 50%;
-    border-top: 10px solid #06C0AB;
-    border-bottom: 10px solid #06C0AB;
+    border-top: 10px solid darkgoldenrod;
+    border-bottom: 10px solid darkgoldenrod;
     width: 100px;
     height: 100px;
     -webkit-animation: second-spin 4s linear infinite;
@@ -124,8 +124,8 @@ li, a{
 #loader-3 {
     border: 10px solid #f3f3f3;
     border-radius: 50%;
-    border-top: 10px solid #06C0AB;
-    border-bottom: 10px solid #06C0AB;
+    border-top: 10px solid darkgoldenrod;
+    border-bottom: 10px solid darkgoldenrod;
     width: 80px;
     height: 80px;
     -webkit-animation: second-spin 4s linear infinite;
@@ -135,8 +135,8 @@ li, a{
 #loader-4 {
     border: 10px solid #f3f3f3;
     border-radius: 50%;
-    border-top: 10px solid #06C0AB;
-    border-bottom: 10px solid #06C0AB;
+    border-top: 10px solid darkgoldenrod;
+    border-bottom: 10px solid darkgoldenrod;
     width: 60px;
     height: 60px;
     -webkit-animation: second-spin 4s linear infinite;
@@ -146,8 +146,8 @@ li, a{
 #loader-5 {
     border: 10px solid #f3f3f3;
     border-radius: 50%;
-    border-top: 10px solid #06C0AB;
-    border-bottom: 10px solid #06C0AB;
+    border-top: 10px solid darkgoldenrod;
+    border-bottom: 10px solid darkgoldenrod;
     width: 40px;
     height: 40px;
     -webkit-animation: second-spin 4s linear infinite;
