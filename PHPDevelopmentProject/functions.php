@@ -8,10 +8,11 @@
  */
 function parseRequest() : array
 {
-    $requestPath = $_SERVER['REQUEST_URI']; // holds /PHPDevelopmentProject/home/index or /home/index
+    $requestPath = $_SERVER['REQUEST_URI']; // holds /blog/home/index or /home/index
     if (substr($requestPath, 0, strlen(APP_ROOT . '/')) != APP_ROOT . '/') {
-        die('APP_ROOT is incorrectly defined in config.php. Use "" or "/PHPDevelopmentProject".');
+        die('APP_ROOT is incorrectly defined in config.php. Use "" or "/blog".');
     }
+    
     $requestPath = substr($requestPath, strlen(APP_ROOT)); // remove APP_ROOT prefix
     $requestParts = explode('/', $requestPath);
 
@@ -34,6 +35,7 @@ function parseRequest() : array
         'controller' => $controller,
         'action' => $action,
         'params' => $params];
+
     return $requestParsed;
 }
 
