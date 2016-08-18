@@ -9,7 +9,7 @@
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="<?=APP_ROOT?>/content/style.css" />
+    <link rel="stylesheet" href="<?=APP_ROOT?>/content/styles.css" />
     <link rel="icon" href="<?=APP_ROOT?>/content/images/favicon.ico" />
     <script src="<?=APP_ROOT?>/content/scripts/jquery-3.0.0.min.js"></script>
     <script src="<?=APP_ROOT?>/content/scripts/blog-scripts.js"></script>

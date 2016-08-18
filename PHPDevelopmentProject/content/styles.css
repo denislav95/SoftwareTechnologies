@@ -1,0 +1,258 @@
+body{
+    background: url("images/background.jpg");
+    background-size: 100%;
+    font-size: 15px;
+    color: white;
+}
+
+.container{
+    background: darkgray;
+}
+
+.container h1{
+    text-align: center;
+}
+
+.welcome-image{
+    background: url("images/header.jpg") no-repeat center center;
+    background-size: cover;
+    position: relative;
+    height: 315px;
+}
+
+.header-nav{
+    position: relative;
+    z-index: 10;
+    background: #686868;
+    border-bottom: 5px solid brown;
+    padding: 0 0;
+    -webkit-user-select: none;
+}
+
+li, a{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.nav-tabs{
+    border: none;
+}
+
+.nav li a{
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav li a:hover{
+    background: #ef5e29;
+}
+
+.favicons a{
+    line-height: 38px;
+    margin-right: 35px;
+}
+
+.logo img{
+    width: 100px;
+}
+
+#posts h2{
+    border-top: 1px solid;
+    padding-top: 20px;
+}
+
+#posts .date{
+    margin-bottom: 10px;
+}
+
+#posts .date, #posts p{
+    padding-left: 10px;
+}
+
+#posts h2:first-of-type{
+    border: none;
+    padding-top: 0;
+}
+
+table th, table td {
+    padding: 5px;
+}
+
+table tr{
+    border: 1px solid;
+}
+
+#messages{
+    margin: 0;
+}
+
+ul#messages li {
+    display: block;
+    width: 80%;
+    margin: 5px auto;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+ul#messages li.info {
+    background: #7f7;
+}
+
+ul#messages li.error {
+    background: #d00;
+    color: white;
+}
+
+.validation-error {
+    vertical-align: top;
+    margin-left: 10px;
+    color: red;
+}
+
+#logged-in-info {
+    float: right;
+    margin-top: 7px;
+}
+
+#logged-in-info form {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.aside h2 {
+    margin: 5px 0px 15px 0px;
+    border-bottom: 1px solid;
+    padding: 10px 0;
+}
+
+.aside a {
+    display: block;
+    margin: 5px 0px;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 0;
+    border-bottom: 1px solid;
+}
+
+body>main:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+footer{
+    padding: 30px 0px 30px 0px;
+    text-align: center;
+    background: transparent;
+}
+
+.footer{
+    padding: 0;
+}
+
+#logged-in-info input{
+    color: #000;
+    border-radius: 30px;
+    background: #fff;
+}
+
+/* LOGIN AND REGISTER */
+
+.login, .register{
+    background: darkgray;
+}
+
+.blog-title{
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.user-login-block, .user-register-block {
+    border-radius: 15px;
+    background: #686868;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+    margin: 10% auto;
+    width: 35%;
+    height: 55%;
+    padding: 10px;
+    text-align: center;
+}
+
+.login label, .register label, .createPost div, .editPost div, .deletePost div{
+    font: 18px Oswald;
+    font-weight: 400;
+    color: #fff;
+    padding: 0 5px 5px;
+    text-align: center;
+}
+
+.login input, .register input, .createPost input, .editPost input, .deletePost input{
+    border-radius: 30px;
+    border: 3px solid darkgray;
+    width: 60%;
+    height: 35px;
+    margin: 0 auto 10px;
+    text-align: center;
+    color: #000;
+    display: block;
+}
+
+.createPost textarea, .editPost textarea, .deletePost textarea{
+    border-radius: 30px;
+    border: 3px solid darkgray;
+    width: 60%;
+    margin: 0 auto 10px;
+    text-align: center;
+    color: #000;
+    display: block;
+}
+
+.login .loginBtn, .register .registerBtn{
+    margin-top: 20px;
+}
+
+.login #toRegister, .register #toLogin{
+    color: #fff;
+}
+
+input:focus {
+    font-weight: 100;
+    outline: none;
+    border: 3px solid darkgray;
+}
+
+/* POSTS */
+
+#editBtn, #createBtn{
+    color: #008000;
+}
+
+#deleteBtn{
+    color: red;
+}
+
+/* USERS */
+
+.users table{
+    margin: 0 auto;
+    width: 50%;
+}
+
+/* CREATE POST */
+
+.createPost form{
+    margin: 0 auto;
+}
+
+#createNewPostBtn, #editNewPostBtn, #deleteNewPostBtn{
+    width: 30%;
+    margin-top: 40px;
+}
+
+.createPost a, .editPost a, .deletePost a{
+    color: #fff;
+}

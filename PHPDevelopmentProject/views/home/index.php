@@ -7,16 +7,16 @@
 
         <div class="col-lg-9">
             <?php foreach ($this->posts as $post): ?>
-                <h2 class="title"><?= htmlentities($post['title'])?></h2>
-                <div class="date">
-                    <i>Posted on</i>
-                    <?= (new DateTime($post['date']))->format('d-M-Y') ?>
-                    <i>By</i>
-                    <?= htmlentities($post['full_name']) ?>
-                </div>
-                <p class="content">
-                    <?= $post['content'] ?>
-                </p>
+            <h2 class="title"><?= htmlentities($post['title'])?></h2>
+            <div class="date">
+                <i>Posted on</i>
+                <?= (new DateTime($post['date']))->format('d-M-Y') ?>
+                <i>By</i>
+                <?= htmlentities($post['full_name']) ?>
+            </div>
+            <p class="content">
+                <?= $post['content'] ?>
+            </p>
             <?php endforeach; ?>
         </div>
 

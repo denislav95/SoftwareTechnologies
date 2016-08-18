@@ -48,7 +48,7 @@ class UsersController extends BaseController
 
     public function login()
     {
-        if ($this->isPost)
+		if ($this->isPost)
         {
             $username = $_POST['username'];
             $password = $_POST['password'];
@@ -70,7 +70,7 @@ class UsersController extends BaseController
 
     public function logout()
     {
-        session_destroy();
+		session_destroy();
         $this->addInfoMessage("Logout successful");
         $this->redirect("");
     }

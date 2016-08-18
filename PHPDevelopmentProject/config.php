@@ -1,6 +1,6 @@
 <?php
 
-define('APP_ROOT', '/PHPDevelopmentProject');
+define('APP_ROOT', '/blog');
 
 define('DEFAULT_CONTROLLER', 'home');
 define('DEFAULT_ACTION', 'index');
