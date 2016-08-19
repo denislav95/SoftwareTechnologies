@@ -8,23 +8,22 @@ namespace ASPNETWebApplicationProject.Controllers
 {
     public class HomeController : Controller
     {
+        private ApplicationDbContext db = new ApplicationDbContext();
+
         public ActionResult Index()
         {
-            return View();
-        }
+            var last5Posts = db.Posts
+                            .Include(p => p.Author)
+                            .OrderByDescending(p => p.Date)
+                            .Take(5);
 
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
+            var posts = last5Posts
+                        .Take(3)
+                        .ToList();
 
-            return View();
-        }
+            ViewBag.SidebarPosts = last5Posts.ToList();
 
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+            return View(posts);
         }
     }
 }
