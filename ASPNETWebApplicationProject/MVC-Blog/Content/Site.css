@@ -1,0 +1,194 @@
+﻿body {
+    padding-bottom: 20px;
+    background-image: url(/Content/Images/background.jpg);
+    background-size: 100%;
+    font-size: 15px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.welcome-image{
+    background-size: cover;
+    position: relative;
+}
+
+.welcome-image img{
+    width: 100%;
+}
+
+/* NAVBAR */
+.navbar-collapse{
+    position: relative;
+    z-index: 10;
+    background: #686868;
+    border-bottom: 5px solid brown;
+}
+
+.navbar-nav{
+    margin-left: -15px;
+}
+
+.navbar-nav li a{
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.navbar-nav li a:hover{
+    background: #ef5e29;
+}
+
+.navbar-header{
+    display: none;
+}
+
+/* MAIN CONTENT */
+.main-content{
+    background: darkgray;
+    padding: 20px;
+    margin: 0;
+}
+
+.post{
+     padding-bottom: 20px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.post>h2, .post>div {
+    background: #EEE;
+    margin: 0;
+    padding: 10px;
+}
+
+.post h2 a{
+    color: #686868;
+}
+
+.sidebar {
+    background: #EEE;
+    margin: 0; 
+}
+
+.sidebar-title {
+    margin: 5px 0px 15px 0px;
+    border-bottom: 1px solid;
+    padding: 10px 0;
+}
+
+.sidebar-posts {
+    padding: 0px 10px 10px 10px;
+    text-decoration: none;
+}
+
+.sidebar-posts a{
+    display: block;
+    margin: 5px 0px;
+    text-decoration: none;
+    color: #686868;
+    padding: 10px 0;
+    border-bottom: 1px solid;
+}
+
+.sidebar-posts a:hover{
+    text-decoration: underline;
+}
+
+.alert {
+    margin-top: 10px;
+}
+
+footer p{
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+/* POSTS */
+.create-new-post a{
+    color: #fff;
+}
+
+.posts h2{
+    text-align: center;
+}
+
+.post-functions{
+    width: 14%;
+}
+
+.post-functions a:first-child{
+    color: #fff;
+}
+
+.post-functions a:nth-child(2){
+    color: green;
+}
+
+.post-functions a:last-child{
+    color: red;
+}
+
+/* MANAGE PAGE */
+.manage a{
+    color: #fff;
+}
+
+/* CREATE NEW POST PAGE */
+.create h2{
+    text-align: center;
+}
+
+.create a{
+    color: #fff;
+}
+
+.create .form-control{
+    margin: 0 auto;
+}
+
+.create .form-horizontal .control-label{
+    width: 100%;
+    text-align: center;
+}
+
+.create .form-group{
+    text-align: center;
+}
+
+/* POST DETAILS PAGE */
+.width-100{
+    width: 100%;
+}
+
+/* DELETE POST PAGE */
+.delete a{
+    color: #fff;
+}
+
+/* LOGIN PAGE */
+.checkbox input[type="checkbox"]{
+    float: none;
+    margin-left: 0;
+}
+
+#loginForm p{
+    text-align: center;
+}

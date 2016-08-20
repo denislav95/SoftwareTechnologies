@@ -1,0 +1,164 @@
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\ApplicationInsights.config
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\csc.exe
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\vbc.exe
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\MVC-Blog.dll.config
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\MVC-Blog.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\MVC-Blog.pdb
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Antlr3.Runtime.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\EntityFramework.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.Web.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Newtonsoft.Json.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Owin.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.Helpers.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.Mvc.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.Optimization.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.Razor.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.WebPages.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\WebGrease.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.Web.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.Helpers.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.Mvc.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.Optimization.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.Razor.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.WebPages.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Antlr3.Runtime.pdb
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Newtonsoft.Json.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\EntityFramework.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\obj\Debug\MVC-Blog.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\obj\Debug\MVC-Blog.dll
+C:\Users\Denislav\Downloads\Software-Technologies-master2\13 Creating a Blog with ASP.NET MVC\MVC-Blog\obj\Debug\MVC-Blog.pdb
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\ApplicationInsights.config
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\csc.exe
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\vbc.exe
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\MVC-Blog.dll.config
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\MVC-Blog.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\MVC-Blog.pdb
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Antlr3.Runtime.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\EntityFramework.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.Web.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Newtonsoft.Json.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Owin.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.Helpers.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.Mvc.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.Optimization.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.Razor.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.WebPages.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\WebGrease.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.Web.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.Helpers.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.Mvc.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.Optimization.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.Razor.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.WebPages.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Antlr3.Runtime.pdb
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Newtonsoft.Json.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\EntityFramework.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\obj\Debug\MVC-Blog.csprojResolveAssemblyReference.cache
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\obj\Debug\MVC-Blog.dll
+C:\Users\Denislav\Documents\Visual Studio 2015\Projects\ASPNETWebApplicationProject\MVC-Blog\obj\Debug\MVC-Blog.pdb
