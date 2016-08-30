@@ -261,7 +261,7 @@ input:focus {
 
 @media (max-width: 767px) {
     .header-nav .logo{
-        text-align: right;
+        text-align: center;
     }
 
     .user-login-block, .user-register-block{
@@ -274,6 +274,19 @@ input:focus {
 
     .favicons a{
         margin-right: 15px;
+    }
+
+    .nav-tabs{
+        text-align: center;
+    }
+
+    .nav-tabs li{
+        float: none;
+        display: inline-block;
+    }
+
+    #logged-in-info{
+        float: none;
     }
 
 }

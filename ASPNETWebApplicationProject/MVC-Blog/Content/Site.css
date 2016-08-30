@@ -192,3 +192,33 @@ footer p{
 #loginForm p{
     text-align: center;
 }
+
+@media (max-width: 1024px){
+    .sidebar{
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 767px){
+    .navbar-collapse{
+        display: block;
+        text-align: center;
+    }
+
+    .sidebar{
+        margin-bottom: 20px;
+    }
+
+    .table{
+        table-layout: fixed;
+    }
+
+    .table thead > tr > th, .table tbody > tr > th, .table tfoot > tr > th, .table thead > tr > td, .table tbody > tr > td, .table tfoot > tr > td{
+        width: 220px;
+        display: block;
+    }
+
+    .post-functions{
+         margin-bottom: 50px;
+    }
+}
