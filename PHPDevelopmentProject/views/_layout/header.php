@@ -25,7 +25,7 @@
 
     <div class="row header-nav">
         <header>
-            <div class="col-lg-2 logo">
+            <div class="col-lg-2 col-sm-2 logo">
                 <a href="<?=APP_ROOT?>"><img src="<?=APP_ROOT?>/content/images/site-logo.png"></a>
             </div>
             <div class="col-lg-7">

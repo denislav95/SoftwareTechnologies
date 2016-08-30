@@ -256,3 +256,24 @@ input:focus {
 .createPost a, .editPost a, .deletePost a{
     color: #fff;
 }
+
+/* RESPONSIVE */
+
+@media (max-width: 767px) {
+    .header-nav .logo{
+        text-align: right;
+    }
+
+    .user-login-block, .user-register-block{
+        width: 90% !important;
+    }
+
+    .favicons{
+        text-align: center;
+    }
+
+    .favicons a{
+        margin-right: 15px;
+    }
+
+}

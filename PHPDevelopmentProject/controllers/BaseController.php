@@ -31,16 +31,6 @@ abstract class BaseController
         $this->onInit();
     }
 
-    public function onInit()
-    {
-        // Implement initializing logic in the subclasses
-    }
-
-    public function index()
-    {
-        // Implement the default action in the subclasses
-    }
-
     public function renderView(string $viewName = null, bool $includeLayout = true)
     {
         if (!$this->isViewRendered) {
