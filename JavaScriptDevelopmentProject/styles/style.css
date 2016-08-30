@@ -194,16 +194,28 @@ li, a{
 
 /* RESPONSIVE */
 
+@media (max-width: 1024px){
+    .articles{
+        margin-left: 0 !important;
+    }
+
+    .user-login-block{
+        width: 60% !important;
+    }
+}
+
+
 @media (max-width: 767px){
     .header-nav{
         text-align: center;
     }
 
-    .nav li{
-        float: none;
+    .nav-tabs{
+        display: inline-block;
     }
 
     .welcome-image{
         height: 200px;
     }
+
 }
